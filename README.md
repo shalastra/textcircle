@@ -2,4 +2,4 @@
 
 TextCircle built using Meteor. 
 
-Working demo: textcircle.sh.meteor.com
+Working demo: [textcircle.sh.meteor.com](textcircle.sh.meteor.com)
